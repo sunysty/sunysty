@@ -37,8 +37,6 @@ I'm studying web frontend<br/>
 
  
 
-<br/><br/>
-
 
 <!--
 **sunysty/sunysty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
