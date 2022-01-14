@@ -21,7 +21,6 @@ I'm studying web frontend<br/>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=000"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=fff"/>
-<img src="https://img.shields.io/badge/axios-1B72BE?style=for-the-badge&logo=axios&logoColor=1B72BE"/>
 </h3>
 
 <h3 align="center">
