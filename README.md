@@ -15,7 +15,6 @@ I'm studying web frontend<br/>
 <h3 align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=fff"/>
 </h3>
 
 <h3 align="center">
