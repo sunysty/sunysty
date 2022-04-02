@@ -1,13 +1,11 @@
-<h1 align="center">JiseonSeok</h1>
-<br/><br/>
-
 <h3 align="center"> 
-  Hi there 👋 <br/>
-I'm studying web frontend<br/>
-           </h3>
-<h3 align="center" >        
-<a href="https://bit.ly/seokjiseon_portfolio">포트폴리오</a>
+  웹 프론트엔드를 공부하고 있는 석지선 입니다.<br/>
 </h3>
+<h4 align="center">
+  <a href="https://bit.ly/sunysty_devlog">📚 Study Log</a><br/><br/>
+  <a href="">💡 Project Log</a><br/><br/>
+  <a href="https://bit.ly/seokjiseon_portfolio">👩🏻‍💻 Portfolio</a><br/><br/>
+</h4>
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff"/>
