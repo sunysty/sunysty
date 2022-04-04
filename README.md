@@ -4,7 +4,7 @@
 <h4 align="center">
   <a href="https://bit.ly/seokjiseon_portfolio">👩🏻‍💻 Portfolio</a><br/><br/>
   <a href="https://bit.ly/sunysty_devlog">📚 Study Log</a><br/><br/>
-  <a href="">💡 Project Log</a><br/><br/>
+  <a href="https://bit.ly/sunysty_project">💡 Project Log</a><br/><br/>
   <a href="https://velog.io/@seokjs523">🥬 Velog</a><br/><br/>
   📮 seokjiseon@gmail.com
 </h4>
