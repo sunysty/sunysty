@@ -2,10 +2,8 @@
   웹 프론트엔드를 공부하고 있는 석지선 입니다.<br/>
 </h3>
 <h4 align="center">
-  <a href="https://neighborly-sneeze-cc5.notion.site/65cd635003294f49ba6e471d9a278c72">👩🏻‍💻 Portfolio</a><br/><br/>
+  <a href="https://www.notion.so/962713a82bf341f3a98fcab9fea73b04">💡 Project Log</a><br/><br/>
   <a href="https://bit.ly/sunysty_devlog">📚 Study Log</a><br/><br/>
-  <a href="https://neighborly-sneeze-cc5.notion.site/e2bf3d2342db461383a571832d5ea2c1?v=445f76ae915a4e36b49b4a60a6853f29">💡 Project Log</a><br/><br/>
-  <a href="https://velog.io/@seokjs523">🥬 Velog</a><br/><br/>
   📮 seokjiseon@gmail.com
 </h4>
 
