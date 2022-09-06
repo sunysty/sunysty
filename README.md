@@ -8,13 +8,19 @@
 </h4>
 
 <h3 align="center">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff"/>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000"/>
+<br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/recoil-000?style=for-the-badge&logo=Recoil&logoColor=fff"/>
+<br/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/styledcomponents-hotpink?style=for-the-badge&logo=styledcomponents&logoColor=fff"/>
+<br/>
 </h3>
 
 
