@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  개발자로 성장중<br/>
+  👋
 </h3>
 <!-- <h4 align="center">
   <a href="https://www.notion.so/962713a82bf341f3a98fcab9fea73b04">💡 Project Log</a><br/><br/>
