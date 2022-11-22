@@ -1,12 +1,12 @@
 <h3 align="center"> 
   웹 프론트엔드를 공부하고 있는 석지선 입니다.<br/>
 </h3>
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://www.notion.so/962713a82bf341f3a98fcab9fea73b04">💡 Project Log</a><br/><br/>
   <a href="https://bit.ly/sunysty_devlog">📚 Study Log</a><br/><br/>
   📮 seokjiseon@gmail.com
 </h4>
-
+ -->
 <h3 align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
