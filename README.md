@@ -8,7 +8,7 @@
 </h4>
  -->
 <h3 align="center">
-
+<!-- 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=fff"/>
@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
