@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  웹 프론트엔드를 공부하고 있는 석지선 입니다.<br/>
+  개발자로 성장중<br/>
 </h3>
 <!-- <h4 align="center">
   <a href="https://www.notion.so/962713a82bf341f3a98fcab9fea73b04">💡 Project Log</a><br/><br/>
@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
